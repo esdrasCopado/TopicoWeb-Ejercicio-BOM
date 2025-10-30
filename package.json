@@ -1,0 +1,17 @@
+{
+  "name": "frontend-ejercicio-bom",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "esdras copado",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.13.1",
+    "vite": "^7.1.12"
+  }
+}
